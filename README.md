@@ -1,7 +1,7 @@
 # caduceu-forense
 Trata-se de um modelo AI para composição de um caduceu para ciência forense em informática.
 
-<p>A inspiração para esta arte foi a escassez por um caduceu para ciência forense em informática.</p>
+<p>A inspiração para esta arte foi a escassez por um caduceu para ciência forense em informática. Este foi baseado no caduceu de medicina com uma adaptação no vetor.</p>
 
 <hr>
 <p>Author: Lameck Fernandes</p>
